@@ -19,4 +19,4 @@ while (x != 0)
     cout << "#Even numbers = " << even-1 << "\n";
     cout << "#Odd numbers = " << odd ;
     return 0;
-}
+}=
