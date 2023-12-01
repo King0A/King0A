@@ -20,7 +20,7 @@ double findYComponent(double l1,double l2,double a1,double a2)
 }
 double pythagoras(double xcom,double ycom)
 {
-    return (pow((pow(xcom,2)+pow(ycom,2)),(1/2)));
+    return (pow((pow(xcom,2)+pow(ycom,2)),(0.5)));
 }
 void showResult(double rvl,double rvd)
 {
